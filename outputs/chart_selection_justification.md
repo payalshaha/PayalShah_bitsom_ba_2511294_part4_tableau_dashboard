@@ -251,8 +251,8 @@ Dashboard-wide filters include:
 * Category
 * Customer Segment
 * Ship Mode
-* Order Date
-* Campaign Channel
+
+
 
 These filters allow users to explore data without creating additional dashboards.
 
